@@ -76,5 +76,6 @@ def a2c(env_name, num_episodes=1000, gamma=0.99, lr=0.001):
 
     env.close()
 
-# Example usage
-a2c('CartPole-v1')
+
+if __name__ == "__main__":
+    a2c('CartPole-v1')
