@@ -23,7 +23,7 @@ The "Deep RL from Scratch" repository comprises implementations and examples sho
 5. **A3C (Asynchronous Advantage Actor-Critic):**
    - Combining actor-critic methods with asynchronous training. For further insights, see [Mnih et al., 2016](https://arxiv.org/abs/1602.01783).
 
-6. **Deep Deterministic Policy Gradients (DDPG):** (WIP)
+6. **Deep Deterministic Policy Gradients (DDPG):**
    - Designed for continuous action spaces. For primary insights, refer to [Lillicrap et al., 2016](https://arxiv.org/abs/1509.02971).
 
 7. **Twin Delayed DDPG (TD3):** (WIP)
