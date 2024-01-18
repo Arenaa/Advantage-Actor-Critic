@@ -1,5 +1,9 @@
 ## Deep RL from scratch
 
+![Static Badge](https://img.shields.io/badge/Deep-RL-%23F5B7B1)
+![Static Badge](https://img.shields.io/badge/Pytorch-%235D6D7E)
+
+
 The repository "Deep RL from scratch" contains implementations and examples showcasing various Deep Reinforcement Learning (DRL) algorithms built entirely from scratch. This means that the implementation of DRL algorithms from scratch involves building neural networks, defining reward structures, and handling the reinforcement learning pipeline without using pre-built components.
 
 # Deep RL from Scratch
@@ -26,7 +30,7 @@ The "Deep RL from Scratch" repository comprises implementations and examples sho
 6. **Deep Deterministic Policy Gradients (DDPG):**
    - Designed for continuous action spaces. For primary insights, refer to [Lillicrap et al., 2016](https://arxiv.org/abs/1509.02971).
 
-7. **Twin Delayed DDPG (TD3):** (WIP)
+7. **Twin Delayed DDPG (TD3):**
    - An extension of DDPG, addressing overestimation bias and instability. Please see [Fujimoto et al., 2018](https://arxiv.org/abs/1802.09477) for more details.
 
 8. **Soft Actor-Critic (SAC):** (WIP)
