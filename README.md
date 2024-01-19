@@ -26,10 +26,10 @@ The "Deep RL from Scratch" repository comprises implementations and examples sho
 6. **Deep Deterministic Policy Gradients (DDPG):**
    - Designed for continuous action spaces. For primary insights, refer to [Lillicrap et al., 2016](https://arxiv.org/abs/1509.02971).
 
-7. **Twin Delayed DDPG (TD3):** (WIP)
+7. **Twin Delayed DDPG (TD3):**
    - An extension of DDPG, addressing overestimation bias and instability. Please see [Fujimoto et al., 2018](https://arxiv.org/abs/1802.09477) for more details.
 
-8. **Soft Actor-Critic (SAC):** (WIP)
+8. **Soft Actor-Critic (SAC):**
    - An off-policy algorithm for continuous action spaces. For comprehensive understanding, check [Haarnoja et al., 2018](https://arxiv.org/abs/1801.01290).
 
 9. **Categorical DQN (C51):** (WIP)
