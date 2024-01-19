@@ -1,5 +1,9 @@
 ## Deep RL from scratch
 
+![Static Badge](https://img.shields.io/badge/Deep-RL-%23F5B7B1)
+![Static Badge](https://img.shields.io/badge/Pytorch-%235D6D7E)
+
+
 The repository "Deep RL from scratch" contains implementations and examples showcasing various Deep Reinforcement Learning (DRL) algorithms built entirely from scratch. This means that the implementation of DRL algorithms from scratch involves building neural networks, defining reward structures, and handling the reinforcement learning pipeline without using pre-built components.
 
 # Deep RL from Scratch
