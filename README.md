@@ -36,7 +36,7 @@ The "Deep RL from Scratch" repository comprises implementations and examples sho
 8. **Soft Actor-Critic (SAC):**
    - An off-policy algorithm for continuous action spaces. For comprehensive understanding, check [Haarnoja et al., 2018](https://arxiv.org/abs/1801.01290).
 
-9. **Categorical DQN (C51):** (WIP)
+9. **Categorical DQN (C51):**
    - A variant of DQN modeling Q-value distribution. Refer to [Bellemare et al., 2017](https://arxiv.org/abs/1707.06887) for detailed insights.
 
 10. **Deep SARSA (State-Action-Reward-State-Action):** (WIP)
