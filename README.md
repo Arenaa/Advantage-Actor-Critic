@@ -39,7 +39,7 @@ The "Deep RL from Scratch" repository comprises implementations and examples sho
 9. **Categorical DQN (C51):**
    - A variant of DQN modeling Q-value distribution. Refer to [Bellemare et al., 2017](https://arxiv.org/abs/1707.06887) for detailed insights.
 
-10. **Deep SARSA (State-Action-Reward-State-Action):** (WIP)
+10. **Deep SARSA (State-Action-Reward-State-Action):**
     - Combining Q-learning with experience replay. Please refer to [van Hasselt et al., 2016](https://arxiv.org/abs/1706.10059) for foundational details.
 
 These algorithms offer diverse approaches for solving reinforcement learning problems, each with specific strengths and weaknesses. For further information, the respective primary papers have been provided.
